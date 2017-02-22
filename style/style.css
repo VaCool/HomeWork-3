@@ -1,0 +1,67 @@
+.main{
+	padding-left: 25%;
+	padding-right: 25%;
+	 
+}
+.top div{
+	display: inline-block;
+}
+.top .progname{
+	font-size: 150%;
+	color: grey;
+}
+.top .links{
+	float: right;
+	margin: 8px;
+}
+.top .links a{
+	color: blue;
+	text-decoration: none;
+	padding: 10px;
+}
+.top .links a:hover{
+	color: white;
+	background: blue;
+	border-radius: 5px;
+	padding: 10px;
+}
+.jambotron{
+	text-align: center;
+	background: lightgray;
+	border-radius: 10px;
+	font-size: 135%;
+}
+.jambotron h1{
+	font-size: 250%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.JumbotronButton{
+	background: green;
+	color: white;
+	padding: 15px 40px;
+	border-radius: 6px;
+	border: 0;
+	font-size: 125%;
+	margin-bottom: 30px;
+}
+.content{
+	font-size: 75%;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.content .rov{
+	width: 100%;
+}
+.content .rov .subheading{
+display: inline-block;
+width: calc(50% - 40px);
+margin: 0;
+}
+.content .rov .subheading:last-child {
+margin-left: 75px;
+}
+ .company{
+ 	margin-top: 10px;
+ 	color: grey;
+ }
